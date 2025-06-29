@@ -61,6 +61,13 @@ npm install
 npm start
 
 
+Ce projet m’a permis de renforcer mes compétences en React, Node.js, Express et Docker.
+J’ai appris à gérer un backend en API REST et à connecter un frontend réactif d'une nouvelle manière en me renseignant par mes propres moyenss
+La gestion des états, les interactions dynamiques et les visualisations de données ont été les parties les plus intéressantes.
+Avec plus de temps, j’aurais ajouté un système d’authentification, des tâches liées à chaque projet, et une meilleure UI, et peut-être même 
+une collaboration avec la Web School Factory et les étudiants 😊
+
 KANOUN Rayan
 Devoir de rattrapage — Web School Factory
 Juin 2025
+
