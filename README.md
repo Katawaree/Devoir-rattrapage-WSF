@@ -59,3 +59,8 @@ terminer par ça pour le backend: node seed.js (une fois le serveur lancé)
 Revenir à la racine puis coller ça: "Projet WSF\temp-frontend"
 npm install
 npm start
+
+
+KANOUN Rayan
+Devoir de rattrapage — Web School Factory
+Juin 2025
